@@ -248,6 +248,8 @@ This repo serves as a centralized resource for researchers and practitioners in 
 
 [3] [When ai meets finance (stockagent): Large language model-based stock trading in simulated real-world environments](https://arxiv.org/pdf/2407.18957)
 
+[4] [FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation](https://arxiv.org/abs/2511.07322) [code](https://github.com/jinsong8/FinRpt) [data](https://huggingface.co/datasets/jinsong8/FinRpt)
+
 
 # Citiation
 If you find this survey or the curated resources helpful for your research, please cite the paper as follows:
