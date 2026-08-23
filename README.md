@@ -4,14 +4,16 @@
   
 **A Survey on Financial Foundation Models**  
 
+📄 [Read the Full Paper (PDF)](./Survey_of_FFMs.pdf)
+
 <div align="center">
-  <img src="fig/model.png" alt="FinLLM Framework" width="600px">
+  <img src="fig/fig1_Financial_Foundation_Models_Arise.jpg" alt="Financial Foundation Models Arise" width="800px">
 </div>
 
 </div>
 
 ## 📝 Introduction
-This repository is the official companion to the survey paper **《Advancing Financial Engineering with Foundation Models: Progress, Applications, and Challenges》** published in the journal Engineering. The paper systematically reviews the progress, applications, and challenges of Financial Foundation Models (FFMs), covering key categories such as Financial Language Foundation Models (FinLFMs), Financial Time-Series Foundation Models (FinTSFMs), and Financial Visual-Language Foundation Models. It also collates a comprehensive collection of relevant datasets and real-world financial applications enabled by FFMs.
+This repository hosts the **full paper PDF** and serves as the official companion to the survey paper **《Advancing Financial Engineering with Foundation Models: Progress, Applications, and Challenges》** published in the journal Engineering. The paper systematically reviews the progress, applications, and challenges of Financial Foundation Models (FFMs), covering key categories such as Financial Language Foundation Models (FinLFMs), Financial Time-Series Foundation Models (FinTSFMs), and Financial Visual-Language Foundation Models. It also collates a comprehensive collection of relevant datasets and real-world financial applications enabled by FFMs.
 
 This repo serves as a centralized resource for researchers and practitioners in the field of financial artificial intelligence, providing curated references to seminal papers, open-source code, and benchmark datasets related to financial foundation models.
 
@@ -45,6 +47,10 @@ This repo serves as a centralized resource for researchers and practitioners in 
 
 # Awesome Papers
 ## Financial Foundation Models
+<div align="center">
+  <img src="fig/fig2_Financial_Language_Models.jpg" alt="Financial Language Foundation Models" width="800px">
+</div>
+
 ### Financial language foundation models
 #### BERT-style FinLFMs
 [1] [FinBERT: Financial Sentiment Analysis with Pretrained Language Models](https://arxiv.org/pdf/1908.10063) 
@@ -95,6 +101,10 @@ This repo serves as a centralized resource for researchers and practitioners in 
 [2] [Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance](https://arxiv.org/pdf/2502.08127) [code](https://github.com/The-FinAI/Fino1)
 
 
+<div align="center">
+  <img src="fig/fig3_Financial_Timeseries_Foundation_Models.jpg" alt="Financial Time-Series Foundation Models" width="800px">
+</div>
+
 ### Financial time-series foundation models
 #### Naive FinTSFMs trained from scratch
 [1] [Marketgpt: Developing a pretrained transformer (gpt) for modeling financial time series](https://arxiv.org/pdf/2411.16585) [code](https://github.com/aaron-wheeler/MarketGPT)
@@ -112,6 +122,10 @@ This repo serves as a centralized resource for researchers and practitioners in 
 
 [3] [Sociodojo: Building lifelong analytical agents with real-world text and time series](https://openreview.net/pdf?id=xuY33XhEGR) [code](https://github.com/chengjunyan1/SocioDojo)
 
+
+<div align="center">
+  <img src="fig/fig4_Financial_Visual_Language_Models.jpg" alt="Financial Visual-Language Foundation Models" width="800px">
+</div>
 
 ### Financial visual-language foundation models
 [1] [Finvis-gpt: A multimodal large language model for financial chart analysis](https://arxiv.org/pdf/2308.01430) [code](https://github.com/wwwadx/FinVis-GPT)
