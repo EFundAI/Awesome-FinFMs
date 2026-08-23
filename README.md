@@ -47,11 +47,12 @@ This repo serves as a centralized resource for researchers and practitioners in 
 
 # Awesome Papers
 ## Financial Foundation Models
+
+### Financial language foundation models
 <div align="center">
   <img src="fig/fig2_Financial_Language_Models.jpg" alt="Financial Language Foundation Models" width="800px">
 </div>
 
-### Financial language foundation models
 #### BERT-style FinLFMs
 [1] [FinBERT: Financial Sentiment Analysis with Pretrained Language Models](https://arxiv.org/pdf/1908.10063) 
 
@@ -101,11 +102,11 @@ This repo serves as a centralized resource for researchers and practitioners in 
 [2] [Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance](https://arxiv.org/pdf/2502.08127) [code](https://github.com/The-FinAI/Fino1)
 
 
+### Financial time-series foundation models
 <div align="center">
   <img src="fig/fig3_Financial_Timeseries_Foundation_Models.jpg" alt="Financial Time-Series Foundation Models" width="800px">
 </div>
 
-### Financial time-series foundation models
 #### Naive FinTSFMs trained from scratch
 [1] [Marketgpt: Developing a pretrained transformer (gpt) for modeling financial time series](https://arxiv.org/pdf/2411.16585) [code](https://github.com/aaron-wheeler/MarketGPT)
 
@@ -123,11 +124,11 @@ This repo serves as a centralized resource for researchers and practitioners in 
 [3] [Sociodojo: Building lifelong analytical agents with real-world text and time series](https://openreview.net/pdf?id=xuY33XhEGR) [code](https://github.com/chengjunyan1/SocioDojo)
 
 
+### Financial visual-language foundation models
 <div align="center">
   <img src="fig/fig4_Financial_Visual_Language_Models.jpg" alt="Financial Visual-Language Foundation Models" width="800px">
 </div>
 
-### Financial visual-language foundation models
 [1] [Finvis-gpt: A multimodal large language model for financial chart analysis](https://arxiv.org/pdf/2308.01430) [code](https://github.com/wwwadx/FinVis-GPT)
 
 [2] [Fintral: A family of gpt-4 level multimodal financial large language models](https://arxiv.org/pdf/2402.10986) [code](https://github.com/UBC-NLP/fintral)
