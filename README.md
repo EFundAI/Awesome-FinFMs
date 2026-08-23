@@ -6,13 +6,13 @@
 
 📄 [Read the Full Paper (PDF)](./Survey_of_FFMs.pdf)
 
+</div>
+
 The emergence of foundation models has catalyzed a paradigm shift in financial AI. As illustrated below, the field is moving away from traditional models designed for narrow, task-specific objectives toward versatile foundation models capable of addressing multiple financial tasks through unified architectures and large-scale pretraining.
 
 <div align="center">
   <img src="fig/fig1_Financial_Foundation_Models_Arise.jpg" alt="Financial Foundation Models Arise" width="800px">
   <p><em>Figure 1: Financial AI paradigm shifts from traditional models for specific tasks to foundation models for multiple tasks.</em></p>
-</div>
-
 </div>
 
 ## 📝 Introduction
