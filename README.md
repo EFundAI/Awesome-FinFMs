@@ -6,8 +6,11 @@
 
 📄 [Read the Full Paper (PDF)](./Survey_of_FFMs.pdf)
 
+The emergence of foundation models has catalyzed a paradigm shift in financial AI. As illustrated below, the field is moving away from traditional models designed for narrow, task-specific objectives toward versatile foundation models capable of addressing multiple financial tasks through unified architectures and large-scale pretraining.
+
 <div align="center">
   <img src="fig/fig1_Financial_Foundation_Models_Arise.jpg" alt="Financial Foundation Models Arise" width="800px">
+  <p><em>Figure 1: Financial AI paradigm shifts from traditional models for specific tasks to foundation models for multiple tasks.</em></p>
 </div>
 
 </div>
@@ -49,8 +52,12 @@ This repo serves as a centralized resource for researchers and practitioners in 
 ## Financial Foundation Models
 
 ### Financial language foundation models
+
+Financial Language Foundation Models (FinLFMs) represent the earliest and most extensively explored branch of financial foundation models. Spanning from early BERT-style encoders to contemporary GPT-style decoders and reasoning-enhanced variants, these models have progressively elevated financial natural language understanding and generation capabilities. The following figure traces their evolution along architectural backbones and timelines.
+
 <div align="center">
   <img src="fig/fig2_Financial_Language_Models.jpg" alt="Financial Language Foundation Models" width="800px">
+  <p><em>Figure 2: The development trajectory of Financial Language Foundation Models (FinLFMs) based on their architectural backbones with timeline.</em></p>
 </div>
 
 #### BERT-style FinLFMs
@@ -103,8 +110,12 @@ This repo serves as a centralized resource for researchers and practitioners in 
 
 
 ### Financial time-series foundation models
+
+Beyond textual data, financial time-series forecasting constitutes another critical domain where foundation models have demonstrated substantial promise. Existing approaches broadly fall into two camps: models built from scratch exclusively on time-series data, and those that repurpose pre-trained language foundation models by aligning time-series tokens with textual representations. The diagram below delineates this dichotomy.
+
 <div align="center">
   <img src="fig/fig3_Financial_Timeseries_Foundation_Models.jpg" alt="Financial Time-Series Foundation Models" width="800px">
+  <p><em>Figure 3: Two categories of FinTSFMs: models trained from scratch on time-series data (left) and models adapted from language foundation models using both time-series and related textual data (right).</em></p>
 </div>
 
 #### Naive FinTSFMs trained from scratch
@@ -125,8 +136,12 @@ This repo serves as a centralized resource for researchers and practitioners in 
 
 
 ### Financial visual-language foundation models
+
+Multimodal reasoning over financial charts, tables, and documents has given rise to Financial Visual-Language Foundation Models (FinVLFMs). These systems typically integrate a vision encoder, a lightweight projector, and a base large language model to jointly process visual and textual financial information, enabling advanced cross-modal analysis.
+
 <div align="center">
   <img src="fig/fig4_Financial_Visual_Language_Models.jpg" alt="Financial Visual-Language Foundation Models" width="800px">
+  <p><em>Figure 4: Current FinVLFMs share three common components: Vision Encoder, Vision Projector, and Base LLM.</em></p>
 </div>
 
 [1] [Finvis-gpt: A multimodal large language model for financial chart analysis](https://arxiv.org/pdf/2308.01430) [code](https://github.com/wwwadx/FinVis-GPT)
