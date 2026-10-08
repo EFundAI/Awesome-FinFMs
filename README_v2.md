@@ -67,7 +67,7 @@
 
 ## 🔥 New Trends 2024–2026: 278 Papers from Top Venues
 
-> Collection methodology: four parallel sweeps (Oct 2026) covering all main-conference & Findings papers at **AAAI, IJCAI, ICLR, ICML, KDD, WWW, ACL, EMNLP (+NAACL/COLING/LREC-COLING)** 2024–2026, keyword-filtered for finance × LLM/foundation-model/agent/RAG paradigms, manually verified, all with official links. Pure traditional-DL finance papers (LSTM/CNN/GNN/RL stock prediction) are **excluded** by design. *Borderline* entries are marked.
+> Collection methodology: four parallel sweeps (Oct 2026) covering all main-conference & Findings papers at **AAAI, IJCAI, ICLR, ICML, KDD, WWW, ACL, EMNLP (+NAACL/COLING/LREC-COLING)** 2024–2026, keyword-filtered for finance × LLM/foundation-model/agent/RAG paradigms, manually verified, all with official links. Pure traditional-DL finance papers (LSTM/CNN/GNN/RL stock prediction) are **excluded** by design.
 
 ### 1️⃣ Benchmarks & Evaluation *(largest cluster — the benchmark explosion)*
 
@@ -134,10 +134,10 @@
 - [InsLogicBench: Argumentation Logic for Insurance Claims Adjudication](https://aclanthology.org/2026.acl-long.1035/) (ACL'26)
 - [TaxPraBen: Chinese Real-World Tax Practice Benchmark](https://aclanthology.org/2026.acl-long.1765/) (ACL'26) · Chinese
 - [Finch: Finance & Accounting across Spreadsheet-Centric Workflows](https://aclanthology.org/2026.findings-acl.523/) (ACL'26 Findings)
-- [ICFD-31k: Large-Scale Dataset for Real-Time Conversational Fraud Detection](https://doi.org/10.24963/ijcai.2026/786) (IJCAI'26, borderline)
-- [CTBench: Cryptocurrency Time Series Generation Benchmark](https://openreview.net/forum?id=RzT2sombPD) (ICLR'26, borderline)
+- [ICFD-31k: Large-Scale Dataset for Real-Time Conversational Fraud Detection](https://doi.org/10.24963/ijcai.2026/786) (IJCAI'26)
+- [CTBench: Cryptocurrency Time Series Generation Benchmark](https://openreview.net/forum?id=RzT2sombPD) (ICLR'26)
 - [LOB-Bench: Benchmarking Generative AI on Limit Order Book Data](https://openreview.net/forum?id=CXPpYJpYXQ) (ICML'25)
-- [DMind: Holistic LLM Assessment across Web3](https://doi.org/10.1145/3770855.3817512) (KDD'26, borderline)
+- [DMind: Holistic LLM Assessment across Web3](https://doi.org/10.1145/3770855.3817512) (KDD'26)
 - [OmniEval: Omnidirectional RAG Evaluation in Finance](https://aclanthology.org/2025.emnlp-main.292/) (EMNLP'25)
 - [FinRAGBench-V: Multimodal RAG with Visual Citation](https://aclanthology.org/2025.emnlp-main.211/) (EMNLP'25)
 - [FinMRAGBench: Realistic Multi-Modal RAG in Financial Documents](https://aclanthology.org/2026.findings-acl.187/) (ACL'26 Findings)
@@ -155,7 +155,7 @@
 - [TREASURE: Transformer Foundation Model for High-Volume Transaction Understanding](https://doi.org/10.1145/3770854.3783942) (KDD'26)
 - [A Foundation Model for Multimodal Event Sequences in Financial Applications](https://doi.org/10.1145/3770855.3818311) (KDD'26)
 - [Pre-training Time Series Models with Stock Data Customization](https://doi.org/10.1145/3711896.3737005) (KDD'25)
-- [CI-STHPAN: Pre-trained Attention Network for Stock Selection](https://doi.org/10.1609/aaai.v38i8.28770) (AAAI'24, borderline)
+- [CI-STHPAN: Pre-trained Attention Network for Stock Selection](https://doi.org/10.1609/aaai.v38i8.28770) (AAAI'24)
 
 *General-purpose TSFMs (backbones validated on financial data):*
 - [Moirai: Unified Training of Universal Time Series Forecasting Transformers](https://proceedings.mlr.press/v235/woo24a.html) (ICML'24)
@@ -168,7 +168,7 @@
 
 *LLM × time-series methods:*
 - [Time-LLM: Time Series Forecasting by Reprogramming LLMs](https://openreview.net/forum?id=Unb5CVPtae) (ICLR'24)
-- [LangTime: Language-Guided Unified Model for Time Series with PPO](https://openreview.net/forum?id=VfoKOD65Zq) (ICML'25, borderline)
+- [LangTime: Language-Guided Unified Model for Time Series with PPO](https://openreview.net/forum?id=VfoKOD65Zq) (ICML'25)
 - [Multi-Scale Hypergraph Meets LLMs for Time Series Analysis](https://openreview.net/forum?id=SbBX2dCw3y) (ICLR'26)
 - [Reasoning on Time-Series for Financial Technical Analysis (VTA)](https://openreview.net/forum?id=PcjIe5xNaY) (ICLR'26)
 - [TimeOmni-1: Incentivizing Complex Reasoning with Time Series in LLMs](https://openreview.net/forum?id=kOIclg7muL) (ICLR'26)
@@ -176,48 +176,48 @@
 *Market simulation & generative market modeling:*
 - [MarS: Financial Market Simulation Engine Powered by Generative FM](https://openreview.net/forum?id=Yqk7EyT52H) (ICLR'25)
 - [MarketSim: Simulating Stock Markets with Large-Scale Generative Agents](https://openreview.net/forum?id=EzpJxPDqXB) (ICML'26)
-- [CoFinDiff: Controllable Financial Diffusion for Time Series Generation](https://doi.org/10.24963/ijcai.2025/1040) (IJCAI'25, borderline)
-- [DiffLOB: Diffusion Counterfactual Generation in Limit Order Books](https://doi.org/10.24963/ijcai.2026/730) (IJCAI'26, borderline)
-- [Controllable Financial Market Generation with Diffusion Guided Meta Agent](https://doi.org/10.1609/aaai.v40i1.37009) (AAAI'26, borderline)
+- [CoFinDiff: Controllable Financial Diffusion for Time Series Generation](https://doi.org/10.24963/ijcai.2025/1040) (IJCAI'25)
+- [DiffLOB: Diffusion Counterfactual Generation in Limit Order Books](https://doi.org/10.24963/ijcai.2026/730) (IJCAI'26)
+- [Controllable Financial Market Generation with Diffusion Guided Meta Agent](https://doi.org/10.1609/aaai.v40i1.37009) (AAAI'26)
 
 *Critical / analysis studies (what's broken & why):*
-- [Understanding the Implicit Biases of Design Choices for TSFMs](https://openreview.net/forum?id=5jkzTzV5Ao) (ICLR'26, borderline)
-- [Beyond Accuracy: Are TSFMs Well-Calibrated?](https://openreview.net/forum?id=nGBN7UjHcy) (ICLR'26, borderline)
-- [When Foundation Models are One-Liners: Limitations for TS Anomaly Detection](https://openreview.net/forum?id=H27kvyG4qf) (ICLR'26, borderline)
-- [Position: TSFMs Require Explicit Domain-Level Benchmarks](https://openreview.net/forum?id=W2eEMPjzIQ) (ICML'26, position, borderline)
-- [Understanding Transformers for TS Forecasting: A Case Study on Moirai](https://openreview.net/forum?id=iAPSx90gwJ) (ICLR'26, borderline)
-- [Universal Redundancies in TSFMs](https://openreview.net/forum?id=DyA4KHj1wy) (ICML'26, borderline)
-- [AdaPTS: Adapting Univariate FMs to Probabilistic Multivariate Forecasting](https://openreview.net/forum?id=yeICCRy3lE) (ICML'25, borderline)
-- [In-Context Fine-Tuning for TSFMs](https://openreview.net/forum?id=uxzgGLWPj2) (ICML'25, borderline)
-- [CoRA: Correlation-aware Adapter for Multivariate TSFM](https://openreview.net/forum?id=JRlNrcTllN) (ICLR'26, borderline)
-- [Zeus: Tuning-Free Foundation Model for Time Series](https://openreview.net/forum?id=Dtue4WLYSk) (ICML'26, borderline)
-- [Mantis: Lightweight FM for Time Series Classification](https://openreview.net/forum?id=gbJMAjXLZ4) (ICML'26, borderline)
-- [Olivia: Harmonizing TSFMs with Power Spectral Density](https://openreview.net/forum?id=F5ULzUwZrv) (ICML'26, borderline)
-- [FeDaL: Federated Dataset Learning for General TSFMs](https://openreview.net/forum?id=HK6t5x5gJq) (ICLR'26, borderline)
-- [UniCA: Unified Covariate Adaptation for TSFM](https://openreview.net/forum?id=I8q4MZb4OP) (ICLR'26, borderline)
-- [CauKer: Classification TSFMs Pretrained on Synthetic Data](https://openreview.net/forum?id=xBW2FIfswU) (ICLR'26, borderline)
-- [See More, Forecast Better and Faster (SPRINT)](https://openreview.net/forum?id=Ql4P9hu3Pa) (ICML'26, borderline)
-- [Channel Adapter for Zero-Shot Multivariate TSFM (ChaTSFM)](https://openreview.net/forum?id=OJriSoFuDq) (ICML'26, borderline)
-- [Time-PEFT: Complexity-Based Fine-Tuning for TSFMs](https://openreview.net/forum?id=n8seTOinYs) (ICML'26, borderline)
-- [Consensus Subspace Distillation for TSFMs](https://openreview.net/forum?id=66l0POQkge) (ICML'26, borderline)
+- [Understanding the Implicit Biases of Design Choices for TSFMs](https://openreview.net/forum?id=5jkzTzV5Ao) (ICLR'26)
+- [Beyond Accuracy: Are TSFMs Well-Calibrated?](https://openreview.net/forum?id=nGBN7UjHcy) (ICLR'26)
+- [When Foundation Models are One-Liners: Limitations for TS Anomaly Detection](https://openreview.net/forum?id=H27kvyG4qf) (ICLR'26)
+- [Position: TSFMs Require Explicit Domain-Level Benchmarks](https://openreview.net/forum?id=W2eEMPjzIQ) (ICML'26, position)
+- [Understanding Transformers for TS Forecasting: A Case Study on Moirai](https://openreview.net/forum?id=iAPSx90gwJ) (ICLR'26)
+- [Universal Redundancies in TSFMs](https://openreview.net/forum?id=DyA4KHj1wy) (ICML'26)
+- [AdaPTS: Adapting Univariate FMs to Probabilistic Multivariate Forecasting](https://openreview.net/forum?id=yeICCRy3lE) (ICML'25)
+- [In-Context Fine-Tuning for TSFMs](https://openreview.net/forum?id=uxzgGLWPj2) (ICML'25)
+- [CoRA: Correlation-aware Adapter for Multivariate TSFM](https://openreview.net/forum?id=JRlNrcTllN) (ICLR'26)
+- [Zeus: Tuning-Free Foundation Model for Time Series](https://openreview.net/forum?id=Dtue4WLYSk) (ICML'26)
+- [Mantis: Lightweight FM for Time Series Classification](https://openreview.net/forum?id=gbJMAjXLZ4) (ICML'26)
+- [Olivia: Harmonizing TSFMs with Power Spectral Density](https://openreview.net/forum?id=F5ULzUwZrv) (ICML'26)
+- [FeDaL: Federated Dataset Learning for General TSFMs](https://openreview.net/forum?id=HK6t5x5gJq) (ICLR'26)
+- [UniCA: Unified Covariate Adaptation for TSFM](https://openreview.net/forum?id=I8q4MZb4OP) (ICLR'26)
+- [CauKer: Classification TSFMs Pretrained on Synthetic Data](https://openreview.net/forum?id=xBW2FIfswU) (ICLR'26)
+- [See More, Forecast Better and Faster (SPRINT)](https://openreview.net/forum?id=Ql4P9hu3Pa) (ICML'26)
+- [Channel Adapter for Zero-Shot Multivariate TSFM (ChaTSFM)](https://openreview.net/forum?id=OJriSoFuDq) (ICML'26)
+- [Time-PEFT: Complexity-Based Fine-Tuning for TSFMs](https://openreview.net/forum?id=n8seTOinYs) (ICML'26)
+- [Consensus Subspace Distillation for TSFMs](https://openreview.net/forum?id=66l0POQkge) (ICML'26)
 - [Aurora: Universal Generative Multimodal Time Series Forecasting](https://openreview.net/forum?id=VVJ6Ck9JBl) (ICLR'26)
-- [Towards FMs for Zero-Shot TS Anomaly Detection via Synthetic Data](https://openreview.net/forum?id=yXqnyIvGAy) (ICML'26, borderline)
-- [Adaptive Conformal Anomaly Detection with TSFMs](https://openreview.net/forum?id=7uFbs68MSI) (ICLR'26, borderline)
-- [Complexity- and Statistics-Guided Anomaly Detection in TSFMs](https://openreview.net/forum?id=rBt9aW3Mx7) (ICLR'26, borderline)
-- [Test-Time Efficient Pretrained Model Portfolios for TS Forecasting](https://openreview.net/forum?id=iqUMjxfDNH) (ICLR'26, borderline)
-- [Adapt Data to Model for Domain-Shared TSFMs](https://openreview.net/forum?id=uTK1SNgi1N) (ICLR'26, borderline)
-- [Enhancing TSFMs via Wavelet-based Tokenization](https://openreview.net/forum?id=B6WalMoQJW) (ICML'25, borderline)
-- [Lightweight Online Adaption for TSFM Forecasts](https://openreview.net/forum?id=gAxYbvoOQz) (ICML'25, borderline)
-- [Exploring Representations and Interventions in TSFMs](https://openreview.net/forum?id=goVzfYtj58) (ICML'25, borderline)
-- [Position: What Can LLMs Tell Us about Time Series Analysis](https://proceedings.mlr.press/v235/jin24i.html) (ICML'24, position, borderline)
-- [Multi-Patch Prediction: Adapting LMs for TS Representation (aLLM4TS)](https://proceedings.mlr.press/v235/bian24a.html) (ICML'24, borderline)
+- [Towards FMs for Zero-Shot TS Anomaly Detection via Synthetic Data](https://openreview.net/forum?id=yXqnyIvGAy) (ICML'26)
+- [Adaptive Conformal Anomaly Detection with TSFMs](https://openreview.net/forum?id=7uFbs68MSI) (ICLR'26)
+- [Complexity- and Statistics-Guided Anomaly Detection in TSFMs](https://openreview.net/forum?id=rBt9aW3Mx7) (ICLR'26)
+- [Test-Time Efficient Pretrained Model Portfolios for TS Forecasting](https://openreview.net/forum?id=iqUMjxfDNH) (ICLR'26)
+- [Adapt Data to Model for Domain-Shared TSFMs](https://openreview.net/forum?id=uTK1SNgi1N) (ICLR'26)
+- [Enhancing TSFMs via Wavelet-based Tokenization](https://openreview.net/forum?id=B6WalMoQJW) (ICML'25)
+- [Lightweight Online Adaption for TSFM Forecasts](https://openreview.net/forum?id=gAxYbvoOQz) (ICML'25)
+- [Exploring Representations and Interventions in TSFMs](https://openreview.net/forum?id=goVzfYtj58) (ICML'25)
+- [Position: What Can LLMs Tell Us about Time Series Analysis](https://proceedings.mlr.press/v235/jin24i.html) (ICML'24, position)
+- [Multi-Patch Prediction: Adapting LMs for TS Representation (aLLM4TS)](https://proceedings.mlr.press/v235/bian24a.html) (ICML'24)
 
 *Financial event/text-time fusion:*
-- [GS-Fuse: Granger-Supervised Gated Fusion for Event-Driven Financial Forecasting](https://doi.org/10.1145/3770855.3817927) (KDD'26, borderline)
+- [GS-Fuse: Granger-Supervised Gated Fusion for Event-Driven Financial Forecasting](https://doi.org/10.1145/3770855.3817927) (KDD'26)
 - [FinRipple: Aligning LLMs with Financial Market Event Ripple Effects](https://aclanthology.org/2025.findings-acl.489/) (ACL'25 Findings)
-- [ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA](https://openreview.net/forum?id=GByP03IitA) (ICML'25, borderline)
-- [Time-VLM: Multimodal VLMs for Augmented Time Series Forecasting](https://openreview.net/forum?id=b5h60xQnzM) (ICML'25, borderline)
-- [Time Series, Vision, and Language: Limits of Alignment in Contrastive Spaces](https://openreview.net/forum?id=TQi2IqvpIf) (ICML'26, borderline)
+- [ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA](https://openreview.net/forum?id=GByP03IitA) (ICML'25)
+- [Time-VLM: Multimodal VLMs for Augmented Time Series Forecasting](https://openreview.net/forum?id=b5h60xQnzM) (ICML'25)
+- [Time Series, Vision, and Language: Limits of Alignment in Contrastive Spaces](https://openreview.net/forum?id=TQi2IqvpIf) (ICML'26)
 
 ### 3️⃣ Agentic Finance *(hottest application area in 2026)*
 
@@ -249,16 +249,16 @@
 *Investment analysis & research agents:*
 - [FinRpt: Dataset, Evaluation & LLM Multi-Agent Framework for Equity Research Reports](https://doi.org/10.1609/aaai.v40i1.37014) (AAAI'26)
 - [Beyond Isolated Investor: Predicting Startup Success via Roleplay Collective Agents](https://doi.org/10.24963/ijcai.2026/721) (IJCAI'26)
-- [Analyze Like a Venture Capitalist: Info-Gain & Knowledge Graph Reasoning for Startup Success](https://aclanthology.org/2026.findings-acl.1555/) (ACL'26 Findings, borderline)
+- [Analyze Like a Venture Capitalist: Info-Gain & Knowledge Graph Reasoning for Startup Success](https://aclanthology.org/2026.findings-acl.1555/) (ACL'26 Findings)
 - [FinSight: Towards Real-World Financial Deep Research](https://aclanthology.org/2026.acl-long.265/) (ACL'26)
 - [Cogito: Cognitive Agentic Framework via Dynamic Graph of Thoughts for Financial Report Generation](https://aclanthology.org/2026.findings-acl.430/) (ACL'26 Findings)
 - [InvestAlign: Aligning LLMs with Investor Decision-Making under Herd Behavior](https://aclanthology.org/2025.acl-long.495/) (ACL'25)
 
 *Economic & market simulation with agents:*
-- [MALLES: Multi-Agent LLM Economic Sandbox with Consumer Preference Alignment](https://doi.org/10.1145/3770855.3818824) (KDD'26, borderline)
-- [Think, Speak, Decide: Language-Augmented MARL for Economic Decision-Making](https://doi.org/10.1609/aaai.v40i35.40201) (AAAI'26, borderline)
-- [From Heard to Lived Opinions: LLM Agents Opinion Dynamics in Economic Environments](https://aclanthology.org/2026.findings-acl.580/) (ACL'26 Findings, borderline)
-- [Market-Bench: LLMs on Economic and Trade Competition](https://aclanthology.org/2026.acl-long.1853/) (ACL'26, borderline)
+- [MALLES: Multi-Agent LLM Economic Sandbox with Consumer Preference Alignment](https://doi.org/10.1145/3770855.3818824) (KDD'26)
+- [Think, Speak, Decide: Language-Augmented MARL for Economic Decision-Making](https://doi.org/10.1609/aaai.v40i35.40201) (AAAI'26)
+- [From Heard to Lived Opinions: LLM Agents Opinion Dynamics in Economic Environments](https://aclanthology.org/2026.findings-acl.580/) (ACL'26 Findings)
+- [Market-Bench: LLMs on Economic and Trade Competition](https://aclanthology.org/2026.acl-long.1853/) (ACL'26)
 
 *Surveys:*
 - [Large Language Model Agents in Finance: A Survey Bridging Research, Practice, and Deployment](https://aclanthology.org/2025.findings-emnlp.972/) (EMNLP'25 Findings)
@@ -271,44 +271,44 @@
 - [Targeting Borderline Fraudsters: Multi-View Hypergraph Fraud Detection with LLM-Guided Contrastive Learning](https://doi.org/10.1609/aaai.v40i18.38588) (AAAI'26)
 - [FLAG: Fraud Detection with LLM-Enhanced GNN](https://doi.org/10.1145/3711896.3737220) (KDD'25)
 - [Understanding Structured Financial Data with LLMs: A Fraud Detection Case Study](https://aclanthology.org/2026.acl-long.1071/) (ACL'26)
-- [SAFE-QAQ: Slow-Thinking Audio-Text Fraud Detection via RL](https://aclanthology.org/2026.acl-long.1201/) (ACL'26, borderline)
-- [CAMERA: Adapting to Semantic Camouflage in Text-Attributed Graph Fraud Detection](https://doi.org/10.24963/ijcai.2026/328) (IJCAI'26, borderline)
-- [SHERLOCK: Dynamic Knowledge Adaptation in LLM-Enhanced E-commerce Risk Management](https://doi.org/10.1145/3770855.3818480) (KDD'26, borderline)
-- [ChiFraud: Long-Term Web Text Dataset for Chinese Fraud Detection](https://aclanthology.org/2025.coling-main.398/) (COLING'25, borderline)
-- [Online Fraud Detection via Test-Time Retrieval-Based Representation Enrichment](https://doi.org/10.1609/aaai.v39i12.33359) (AAAI'25, borderline)
+- [SAFE-QAQ: Slow-Thinking Audio-Text Fraud Detection via RL](https://aclanthology.org/2026.acl-long.1201/) (ACL'26)
+- [CAMERA: Adapting to Semantic Camouflage in Text-Attributed Graph Fraud Detection](https://doi.org/10.24963/ijcai.2026/328) (IJCAI'26)
+- [SHERLOCK: Dynamic Knowledge Adaptation in LLM-Enhanced E-commerce Risk Management](https://doi.org/10.1145/3770855.3818480) (KDD'26)
+- [ChiFraud: Long-Term Web Text Dataset for Chinese Fraud Detection](https://aclanthology.org/2025.coling-main.398/) (COLING'25)
+- [Online Fraud Detection via Test-Time Retrieval-Based Representation Enrichment](https://doi.org/10.1609/aaai.v39i12.33359) (AAAI'25)
 
 *Security & manipulation:*
 - [Learning to Conceal Risk: Controllable Multi-turn Red Teaming for LLMs in Finance](https://aclanthology.org/2026.acl-long.1903/) (ACL'26)
-- [Web Fraud Attacks Against LLM-Driven Multi-Agent Systems](https://aclanthology.org/2026.findings-acl.686/) (ACL'26 Findings, borderline)
+- [Web Fraud Attacks Against LLM-Driven Multi-Agent Systems](https://aclanthology.org/2026.findings-acl.686/) (ACL'26 Findings)
 - [When AI Agents Collude Online: Financial Fraud Risks by Collaborative LLM Agents](https://openreview.net/forum?id=a1d2smwmBS) (ICLR'26)
-- [Semantics-Preserving Adversarial Attacks on Event-Driven Stock Prediction](https://doi.org/10.1609/aaai.v40i44.41099) (AAAI'26, borderline)
+- [Semantics-Preserving Adversarial Attacks on Event-Driven Stock Prediction](https://doi.org/10.1609/aaai.v40i44.41099) (AAAI'26)
 - [FraudShield: Knowledge-Graph Defense for LLMs against Fraud Attacks](https://doi.org/10.1145/3774904.3792199) (WWW'26)
 
 *Compliance, tax & regulation:*
 - [Compliance-to-Code: Enhancing Financial Compliance Checking via Code Generation](https://doi.org/10.1145/3770854.3785703) (KDD'26)
 - [Can LLMs Identify Tax Abuse?](https://doi.org/10.1609/aaai.v40i45.41165) (AAAI'26)
 - [Language Models and Logic Programs for Trustworthy Tax Reasoning](https://doi.org/10.1609/aaai.v40i45.41212) (AAAI'26)
-- [TaxReasoning: Benchmarking Knowledge-Intensive Math Reasoning with Evolving Tax Laws](https://doi.org/10.1609/aaai.v40i37.40367) (AAAI'26, borderline)
+- [TaxReasoning: Benchmarking Knowledge-Intensive Math Reasoning with Evolving Tax Laws](https://doi.org/10.1609/aaai.v40i37.40367) (AAAI'26)
 - [AI4Contracts: LLM & RAG-Powered Encoding of Financial Derivative Contracts](https://doi.org/10.24963/ijcai.2025/1034) (IJCAI'25)
 - [RAG-Enhanced Evidence Recommendation in Financial Legal Resolutions](https://doi.org/10.1145/3701716.3715520) (WWW'25)
 - [Harmful Terms and Where to Find Them: Unfavorable Financial Terms in Shopping Websites](https://doi.org/10.1145/3696410.3714573) (WWW'25)
-- [A Guardrail Framework for Sensitive Financial Information Protection](https://doi.org/10.1609/aaai.v40i47.41498) (AAAI'26, borderline)
-- [From Complexity to Clarity: AI/NLP's Role in Regulatory Compliance (survey)](https://aclanthology.org/2025.findings-acl.1366/) (ACL'25 Findings, borderline)
+- [A Guardrail Framework for Sensitive Financial Information Protection](https://doi.org/10.1609/aaai.v40i47.41498) (AAAI'26)
+- [From Complexity to Clarity: AI/NLP's Role in Regulatory Compliance (survey)](https://aclanthology.org/2025.findings-acl.1366/) (ACL'25 Findings)
 - [Interpreting Fedspeak: LLM Uncertainty-Aware Framework for Monetary Policy](https://doi.org/10.1609/aaai.v40i40.40739) (AAAI'26)
 
 *Risk & credit:*
 - [Think-like-LSTM: Memory-Augmented LLMs for Financial Risk Assessment (FraLLM)](https://doi.org/10.1145/3770855.3818491) (KDD'26)
 - [Accept or Deny? LLM Fairness in Loan Approval across Table-to-Text Serialization](https://aclanthology.org/2025.findings-emnlp.947/) (EMNLP'25 Findings)
-- [Translating Latent Representations for Money Laundering Detection](https://doi.org/10.24963/ijcai.2026/723) (IJCAI'26, borderline)
-- [IGT4ETH: Isotropic Pre-trained Graph Transformer for Ethereum Account Classification](https://doi.org/10.1609/aaai.v40i28.39536) (AAAI'26, borderline)
-- [Dual Pairwise Pre-training for Interbank Credit Rating](https://doi.org/10.1145/3696410.3714530) (WWW'25, borderline)
-- [ZipZap: Efficient Training of LMs for Large-Scale Fraud Detection on Blockchain](https://doi.org/10.1145/3589334.3645352) (WWW'24, borderline)
+- [Translating Latent Representations for Money Laundering Detection](https://doi.org/10.24963/ijcai.2026/723) (IJCAI'26)
+- [IGT4ETH: Isotropic Pre-trained Graph Transformer for Ethereum Account Classification](https://doi.org/10.1609/aaai.v40i28.39536) (AAAI'26)
+- [Dual Pairwise Pre-training for Interbank Credit Rating](https://doi.org/10.1145/3696410.3714530) (WWW'25)
+- [ZipZap: Efficient Training of LMs for Large-Scale Fraud Detection on Blockchain](https://doi.org/10.1145/3589334.3645352) (WWW'24)
 
 ### 5️⃣ Financial Document Intelligence, QA & RAG
 
 *Financial QA & document understanding:*
 - [FinTextQA: A Dataset for Long-form Financial Question Answering](https://aclanthology.org/2024.acl-long.328/) (ACL'24)
-- [Fine-Tuning Smaller LMs for QA over Financial Documents](https://aclanthology.org/2024.findings-emnlp.617/) (EMNLP'24 Findings, borderline)
+- [Fine-Tuning Smaller LMs for QA over Financial Documents](https://aclanthology.org/2024.findings-emnlp.617/) (EMNLP'24 Findings)
 - [Hierarchical Retrieval with Evidence Curation for Open-Domain Financial QA](https://aclanthology.org/2025.findings-acl.855/) (ACL'25 Findings)
 - [David vs. Goliath: Cost-Efficient Financial QA via Cascaded Multi-Agent Reasoning](https://aclanthology.org/2025.findings-emnlp.225/) (EMNLP'25 Findings)
 - [FinCARDS: Card-Based Analyst Reranking for Financial Document QA](https://aclanthology.org/2026.findings-acl.1244/) (ACL'26 Findings)
@@ -333,33 +333,33 @@
 
 ### 6️⃣ ESG & Sustainability
 
-- [ESG Accountability Made Easy: DocQA at Your Service](https://doi.org/10.1609/aaai.v38i21.30574) (AAAI'24, IAAI, borderline)
+- [ESG Accountability Made Easy: DocQA at Your Service](https://doi.org/10.1609/aaai.v38i21.30574) (AAAI'24, IAAI)
 - [Towards Robust ESG Analysis Against Greenwashing Risks: Aspect-Action Analysis](https://aclanthology.org/2025.acl-long.723/) (ACL'25)
 - [ESGenius: Benchmarking LLMs on ESG and Sustainability Knowledge](https://aclanthology.org/2025.emnlp-main.739/) (EMNLP'25)
 - [ESG-Bench: Long-Context ESG Reports for Hallucination Mitigation](https://doi.org/10.1609/aaai.v40i46.41281) (AAAI'26)
 - [Learning the ESG Geometry with Domain-Aware Language Models](https://openreview.net/forum?id=CydNEMsNM6) (ICML'26)
-- [ESG-Kor: Korean Dataset for ESG Information Extraction](https://aclanthology.org/2024.findings-emnlp.387/) (EMNLP'24 Findings, borderline)
+- [ESG-Kor: Korean Dataset for ESG Information Extraction](https://aclanthology.org/2024.findings-emnlp.387/) (EMNLP'24 Findings)
 
 ### 7️⃣ Multilingual & Low-Resource Financial NLP
 
 - [Dólares or Dollars? Bilingual Financial LLMs between Spanish and English](https://doi.org/10.1145/3637528.3671554) (KDD'24) · Spanish-English
-- [IndicFinNLP: Financial NLP for Indian Languages](https://aclanthology.org/2024.lrec-main.789/) (LREC-COLING'24, borderline)
-- [FinCorpus-DE10k: German Financial Domain Corpus](https://aclanthology.org/2024.lrec-main.639/) (LREC-COLING'24, borderline)
+- [IndicFinNLP: Financial NLP for Indian Languages](https://aclanthology.org/2024.lrec-main.789/) (LREC-COLING'24)
+- [FinCorpus-DE10k: German Financial Domain Corpus](https://aclanthology.org/2024.lrec-main.639/) (LREC-COLING'24)
 - [EFSA: Event-Level Financial Sentiment Analysis (Chinese)](https://aclanthology.org/2024.acl-long.402/) (ACL'24) · Chinese
-- [OEE-CFC: Open Event Extraction from Chinese Financial Commentary](https://aclanthology.org/2024.findings-emnlp.256/) (EMNLP'24 Findings, borderline) · Chinese
+- [OEE-CFC: Open Event Extraction from Chinese Financial Commentary](https://aclanthology.org/2024.findings-emnlp.256/) (EMNLP'24 Findings) · Chinese
 - [Benchmarking LLMs on CFLUE (Chinese)](https://aclanthology.org/2024.findings-acl.337/) (ACL'24 Findings) · Chinese
 - [FinEval & CFinBench (Chinese benchmarks)](https://aclanthology.org/2025.naacl-long.318/) (NAACL'25) · Chinese
 - [VisFinEval: Chinese Multimodal Financial Understanding](https://aclanthology.org/2025.emnlp-main.1229/) (EMNLP'25) · Chinese
 - [Golden Touchstone: Bilingual (Zh/En) Financial LLM Benchmark](https://aclanthology.org/2025.findings-emnlp.1227/) (EMNLP'25 Findings)
 - [Plutus: Low-Resource Greek Finance](https://aclanthology.org/2025.emnlp-main.1535/) (EMNLP'25) · Greek
-- [Translating Domain Terminology in Tax & Financial Education](https://aclanthology.org/2025.emnlp-main.1774/) (EMNLP'25, borderline)
+- [Translating Domain Terminology in Tax & Financial Education](https://aclanthology.org/2025.emnlp-main.1774/) (EMNLP'25)
 - [CFMME: Chinese Financial Multimodal Evaluation](https://aclanthology.org/2026.acl-long.1000/) (ACL'26) · Chinese
 - [MultiFinBen: Multilingual Multimodal Financial Applications](https://aclanthology.org/2026.acl-long.770/) (ACL'26)
 - [SAHM: Arabic Financial & Shari'ah-Compliant Reasoning](https://aclanthology.org/2026.acl-long.1593/) (ACL'26) · Arabic
 - [TaxPraBen: Chinese Real-World Tax Practice](https://aclanthology.org/2026.acl-long.1765/) (ACL'26) · Chinese
 - [FIND: Multimodal Financial Reasoning for Indic Languages](https://aclanthology.org/2026.findings-acl.1639/) (ACL'26 Findings) · Indic
 - [EDINET-Bench: Japanese Financial Statements](https://openreview.net/forum?id=Dxns0cj15A) (ICLR'26) · Japanese
-- [Economy Watchers Survey: Japanese Financial Domain Datasets](https://doi.org/10.1145/3701716.3715304) (WWW'25, borderline) · Japanese
+- [Economy Watchers Survey: Japanese Financial Domain Datasets](https://doi.org/10.1145/3701716.3715304) (WWW'25) · Japanese
 
 ### 8️⃣ Domain Adaptation & Training Paradigms *(how to adapt, not new pretraining)*
 
@@ -370,26 +370,26 @@
 - [TermGPT: Multi-Level Contrastive Fine-Tuning for Terminology Adaptation](https://doi.org/10.1609/aaai.v40i2.37075) (AAAI'26)
 
 *Efficient & specialized encoders (the "small vs. large" debate):*
-- [FinBERT2: Specialized Bidirectional Encoder for Finance-Specific Deployment](https://doi.org/10.1145/3711896.3737219) (KDD'25, borderline)
+- [FinBERT2: Specialized Bidirectional Encoder for Finance-Specific Deployment](https://doi.org/10.1145/3711896.3737219) (KDD'25)
 - [Efficient Multi-Expert Tabular Language Model for Banking](https://doi.org/10.1145/3690624.3709400) (KDD'25)
-- [Fine-Tuning Smaller Language Models for QA over Financial Documents](https://aclanthology.org/2024.findings-emnlp.617/) (EMNLP'24 Findings, borderline)
+- [Fine-Tuning Smaller Language Models for QA over Financial Documents](https://aclanthology.org/2024.findings-emnlp.617/) (EMNLP'24 Findings)
 
 *Domain LLMs & applications of general models in finance:*
 - [FinTral: A Family of GPT-4 Level Multimodal Financial LLMs](https://aclanthology.org/2024.findings-acl.774/) (ACL'24 Findings)
 - [Ploutos: Explainable Stock Movement Prediction with Financial LLM](https://doi.org/10.1145/3701716.3715254) (WWW'25)
 - [MERA: Mixture of Experts with Retrieval-Augmented Representation for Stock Patterns](https://doi.org/10.1145/3701716.3715513) (WWW'25)
-- [Pre-Finetuning with Impact Duration Awareness for Stock Movement Prediction](https://doi.org/10.1145/3701716.3715551) (WWW'25, borderline)
-- [Can LLMs Follow Concept Annotation Guidelines? Scientific & Financial Domains](https://aclanthology.org/2024.findings-acl.478/) (ACL'24 Findings, borderline)
+- [Pre-Finetuning with Impact Duration Awareness for Stock Movement Prediction](https://doi.org/10.1145/3701716.3715551) (WWW'25)
+- [Can LLMs Follow Concept Annotation Guidelines? Scientific & Financial Domains](https://aclanthology.org/2024.findings-acl.478/) (ACL'24 Findings)
 - [LLMs as Financial Data Annotators: Effectiveness and Efficiency](https://aclanthology.org/2024.lrec-main.885/) (LREC-COLING'24)
 
 *LLM behavior & economics-of-AI studies:*
 - [STEER: Assessing the Economic Rationality of LLMs](https://proceedings.mlr.press/v235/raman24b.html) (ICML'24)
 - [Are LLMs Rational Investors? Financial Bias in LLMs](https://aclanthology.org/2025.findings-acl.1239/) (ACL'25 Findings)
-- [Evaluating and Aligning Human Economic Risk Preferences in LLMs](https://aclanthology.org/2025.emnlp-main.917/) (EMNLP'25, borderline)
-- [Language Models Trained to do Arithmetic Predict Human Risky Choice](https://openreview.net/forum?id=Tn8EQIFIMQ) (ICLR'25, borderline)
-- [Lost in Prediction: Why Social Media Narratives Don't Help Macroeconomic Forecasting](https://openreview.net/forum?id=zFAhRlklbb) (ICLR'25, borderline)
-- [EconNLI: Evaluating LLMs on Economics Reasoning](https://aclanthology.org/2024.findings-acl.58/) (ACL'24 Findings, borderline)
-- [Towards the Terminator Economy: Assessing Job Exposure to AI Through LLMs](https://doi.org/10.24963/ijcai.2025/1066) (IJCAI'25, borderline)
+- [Evaluating and Aligning Human Economic Risk Preferences in LLMs](https://aclanthology.org/2025.emnlp-main.917/) (EMNLP'25)
+- [Language Models Trained to do Arithmetic Predict Human Risky Choice](https://openreview.net/forum?id=Tn8EQIFIMQ) (ICLR'25)
+- [Lost in Prediction: Why Social Media Narratives Don't Help Macroeconomic Forecasting](https://openreview.net/forum?id=zFAhRlklbb) (ICLR'25)
+- [EconNLI: Evaluating LLMs on Economics Reasoning](https://aclanthology.org/2024.findings-acl.58/) (ACL'24 Findings)
+- [Towards the Terminator Economy: Assessing Job Exposure to AI Through LLMs](https://doi.org/10.24963/ijcai.2025/1066) (IJCAI'25)
 
 ---
 
