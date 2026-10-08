@@ -21,7 +21,7 @@
 | Scope | Foundation models (FinLFM / FinTSFM / FinVLFM) + data + applications | **+ 278 new papers** from AAAI / IJCAI / ICLR / ICML / KDD / WWW / ACL / EMNLP (main + Findings), 2024–2026 |
 | Key finding | FFMs are emerging | **Domain-text pretraining has stalled**; the field has shifted to time-series FMs, agents, benchmarks, trustworthiness & ESG (see §New Trends) |
 | Events | — | New **Community Events Calendar** (workshops & conferences) |
-| Maintenance | Static | **Annual December review** + rolling community contributions |
+| Maintenance | Promised regular updates, but **no explicit mechanism** — remained largely static in practice | **Explicit annual December review** + rolling community contributions + public changelog |
 
 **The big picture (2024 → 2026).** At top venues, new BloombergGPT/FinGPT-style *financial text foundation models* have essentially disappeared — the community consensus is that frontier general LLMs already match or beat domain-pretrained models on financial NLP. Research energy has migrated to eight active directions, which we use to organize the 278-paper collection below:
 
