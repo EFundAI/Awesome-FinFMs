@@ -6,7 +6,7 @@
 
 **V2 Curated: October 2026** · Reviewed & Updated Annually Every **December**
 
-📄 [V1 Paper (Engineering'26)](./Survey_of_FFMs.pdf) · 📜 [V1 List (frozen)](./README_v1.md) · 🏷️ [V1 Tag](https://github.com/EFundAI/Awesome-FinFMs/releases/tag/v1.0-engineering)
+📄 [V1 Paper (Engineering'25)](./Survey_of_FFMs.pdf) · 📜 [V1 List (frozen)](./README_v1.md) · 🏷️ [V1 Tag](https://github.com/EFundAI/Awesome-FinFMs/releases/tag/v1.0-engineering)
 
 </div>
 
@@ -397,7 +397,7 @@
 
 The V1 list — the Engineering'25 survey companion covering **Financial Language / Time-Series / Visual-Language Foundation Models, datasets, and applications** (the era of FinBERT → BloombergGPT → FinGPT → PIXIU → XuanYuan) — is preserved **frozen** here:
 
-👉 **[README_v1.md](./README_v1.md)** · 🏷️ **[v1.0-engineering tag](https://github.com/EFundAI/Awesome-FinFMs/releases/tag/v1.0-engineering)** · 📄 **[Survey PDF](./Survey_of_FFMs.pdf)**
+👉 **[README_v1.md](./README_v1.md)** · 🏷️ **[v1.0-engineering tag](https://github.com/EFundAI/Awesome-FinFMs/releases/tag/v1.0-engineering)** · 📄 **[Survey PDF](./Survey_of_FFMs.pdf)** · 🔗 **[Published in *Engineering* (available online Dec 2025)](https://www.sciencedirect.com/science/article/pii/S209580992500757X)**
 
 V1 remains the authoritative catalog for the *foundation-model era* (≈2019–2024). V2's §1–§8 above are the *increment* on top of it.
 
@@ -406,14 +406,13 @@ V1 remains the authoritative catalog for the *foundation-model era* (≈2019–2
 ## 🔁 Maintenance: A Living Review
 
 - **Curated** October 2026 (collection sweeps run 2026-10-07; 278 papers verified with official links).
-- **Reviewed & updated every December** — the annual review scans the just-finished conference cycle (e.g., Dec 2026 review adds EMNLP 2026, NeurIPS 2026, ICAIF 2026 proceedings + next-year workshop deadlines) and updates trend conclusions if the landscape shifts.
-- Each December review bumps the **"last reviewed"** date above and appends to the [changelog](#changelog) below.
+- **Reviewed & updated every December** — each annual review scans the just-finished conference cycle (e.g., Dec 2026: EMNLP 2026, NeurIPS 2026, ICAIF 2026 proceedings + next-year workshop deadlines) and updates trend conclusions if the landscape shifts. Each review bumps the **"last reviewed"** date at the top and appends a row below.
 
 ### Changelog
 | Date | Event |
 |---|---|
 | 2025 | V1 released with the Engineering survey |
-| **2026-10** | **V2 launched**: V1 frozen (tag `v1.0-engineering`), +278 papers (2024–2026) in 8 trend categories, community events calendar, annual-review mechanism |
+| **2026-10** | **V2 launched** — see [What's New in V2](#-whats-new-in-v2) above |
 
 ---
 
